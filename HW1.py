@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  9 16:48:49 2020
 
-@author: lizhou
-"""
 
 [globals().pop(var) for var in dir() if not var.startswith("__")]
 
